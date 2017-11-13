@@ -1,7 +1,7 @@
 {
     "app_id" : "com.moodle.cartelsystems",
-    "appname": "Cartel Systems",
-    "desktopappname": "Cartel Systems Desktop app",
+    "appname": "Cartel Systems Mobile App",
+    "desktopappname": "Cartel Systems Desktop App",
     "versioncode" : "2020",
     "versionname" : "1.1.0",
     "cache_expiration_time" : 300000,
@@ -11,7 +11,7 @@
     "wsextservice" : "local_mobile",
     "gcmpn": "694767596569",
     "customurlscheme": "moodlemobile",
-    "siteurl": "",
+    "siteurl": "http://cartelsystems.com/demos/learnslate",
     "skipssoconfirmation": "false",
     "forcedefaultlanguage": "false",
     "privacypolicy": "http://cartelsystems.com/privacy.php"
